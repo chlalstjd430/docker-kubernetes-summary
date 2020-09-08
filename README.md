@@ -1,7 +1,7 @@
 # docker-k8s-summary
 도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 책 요약
 
-## Docker
+## 🐳 Docker
 
 도커는 chapter 01 ~ 03 부분만 요약하였다. 이후 도커에 관련된 내용은 docker swarm을 이용한 듀토리얼 정도인데, 쿠버네티스를 이어서 다룰 예정이어서 해당 부분은 스킵하고 넘어갔다. 
 
@@ -17,11 +17,11 @@
 - [07.도커 컨테이너 배포 - 도커 컴포즈로 여러 컨테이너 실행하기.md](https://github.com/chlalstjd430/docker-k8s-summary/blob/master/docker/chapter02/07.%EB%8F%84%EC%BB%A4%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EB%B0%B0%ED%8F%AC%20-%20%EB%8F%84%EC%BB%A4%20%EC%BB%B4%ED%8F%AC%EC%A6%88%EB%A1%9C%20%EC%97%AC%EB%9F%AC%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.md)
 
 #### chapter03
-- [8.컨테이너 실전 구축 및 배포](https://github.com/chlalstjd430/docker-k8s-summary/blob/master/docker/chapter03/08.%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%8B%A4%EC%A0%84%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EB%B0%B0%ED%8F%AC.md)
+- [08.컨테이너 실전 구축 및 배포](https://github.com/chlalstjd430/docker-k8s-summary/blob/master/docker/chapter03/08.%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%8B%A4%EC%A0%84%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EB%B0%B0%ED%8F%AC.md)
 
 
 
 
-## Kubernetes
+## 🐙 Kubernetes
 
 - 작성중
